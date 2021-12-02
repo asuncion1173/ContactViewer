@@ -1,0 +1,10 @@
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\bin\Debug\ContactViewer.exe.config
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\bin\Debug\ContactViewer.exe
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\bin\Debug\ContactViewer.pdb
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\obj\Debug\ContactViewer.csproj.AssemblyReference.cache
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\obj\Debug\ContactViewer.Form1.resources
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\obj\Debug\ContactViewer.Properties.Resources.resources
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\obj\Debug\ContactViewer.csproj.GenerateResource.cache
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\obj\Debug\ContactViewer.csproj.CoreCompileInputs.cache
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\obj\Debug\ContactViewer.exe
+C:\Users\ASUNCION\source\repos\ContactViewer\ContactViewer\obj\Debug\ContactViewer.pdb
