@@ -117,4 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Metro Manila Emergency COVID-19 Hotlines
+
+Caloocan City
+5310.6972 / 09478834430
+
+City of Manila
+8527.5174 / 0961.0627013
+
+Makati City
+168 / 8870.1959.59
+
+Mandaluyong City
+0916.2558130 / 0961.571.6959
+
+Valenzuela City
+8352.5000 / 8292.1405
+
+San Juan City
+8655.8683 / 7949.8359
+
+Pasig City
+8643.0000
+
+Marikina City
+161 / 0945.517.6926
+
+Quezon City
+122</value>
+  </data>
 </root>
